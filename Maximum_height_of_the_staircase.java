@@ -14,7 +14,7 @@ Constraints:
 
 1<=T<=100
 
-1<=N<=10^8
+1<=N<=10^7
 
 Example:
 
