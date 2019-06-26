@@ -30,7 +30,7 @@ while(test!=0){
 		System.out.print(ar[i]+" ");
 	}
 
-	System.out.println();
+	System.out.println("");
 	test --;
 }
 
